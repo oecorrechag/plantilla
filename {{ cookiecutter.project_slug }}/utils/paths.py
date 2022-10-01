@@ -48,4 +48,3 @@ for dir_type in [
     ]:
     dir_var = '_'.join(dir_type) + "_dir"
     exec(f"{dir_var} = make_dir_function({dir_type})")
-    
