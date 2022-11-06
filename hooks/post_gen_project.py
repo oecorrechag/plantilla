@@ -11,7 +11,7 @@ subprocess.call(['git', 'init'])
 subprocess.call(['git', 'add', '*'])
 subprocess.call(['git', 'commit', '-m', 'Initial commit'])
 
-subprocess.call(['pip', 'install', '-r', 'requirements.txt'])
+# subprocess.call(['pip', 'install', '-r', 'requirements.txt'])
 
 # print(f"{MESSAGE_COLOR}The beginning of your destiny is defined now! Create and have fun!{RESET_ALL}")
 print(f"{MESSAGE_COLOR}Be happy!{RESET_ALL}")
