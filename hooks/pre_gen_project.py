@@ -1,5 +1,4 @@
 import os
-import sys
 
 project_slug = "{{ cookiecutter.project_slug }}"
 

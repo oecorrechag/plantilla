@@ -54,13 +54,12 @@ docs/_build/
 
 
 # Others
-data
 references
 reports
 
-secretos.py
 paths.py
-0.1.0_download.ipynb
+visualize.py
+0.1.0_test.ipynb
 
 env
 .gitignore
